@@ -1,4 +1,10 @@
 {
   "name": "ReactTest",
-  "displayName": "ReactTest"
+  "displayName": "ReactTest",
+  "expo": {
+    "slug": "reacttest",
+    "jsEngine": "jsc",
+    "version": "1.0.0",
+    "sdkVersion": "EXPO_SDK_VERSION"
+  }
 }
